@@ -3,7 +3,7 @@
 🚀 **Hi, I’m Ashish!**
 A builder who crafts **accessible, clean, AI-assisted web apps and Chrome extensions** using **React, TypeScript, and Gemini/OpenAI APIs.** I care deeply about **UI/UX, meaningful design, and developer tooling** that empowers learning and productivity.
 
-[🌐 **Portfolio**](https://ashishkm.vercel.app) • [LinkedIn](https://www.linkedin.com/in/amazingashish) • [Ashishkm.dev@gmail.com](Ashishkm.dev@gmail.com) *(replace with actual links)*
+[🌐**Portfolio**](https://ashishkm.vercel.app) • [💼LinkedIn](https://www.linkedin.com/in/amazingashish) • [✉️Ashishkm.dev@gmail.com](Ashishkm.dev@gmail.com)
 
 ---
 
