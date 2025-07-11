@@ -1,6 +1,61 @@
-# 💫 About Me:
-🛰️ I’m currently working on:<br>Building accessible, production-ready web apps and Chrome extensions using React, TypeScript, and Gemini API, focused on AI-assisted tools and clean UI/UX.<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on:<br>Open-source AI + accessibility tools<br><br>Full-stack SaaS products<br><br>Chrome extensions improving productivity or learning<br><br>🤝 I’m looking for help with:<br>Advanced AI integration (LLMs, embeddings, RAG pipelines)<br><br>Learning effective backend scaling practices<br><br>Improving design thinking and UI animations<br><br>🌱 I’m currently learning:<br>Deepening TypeScript + React patterns<br><br>AI workflow automation using Gemini and OpenAI APIs<br><br>Microservices and cloud deployment for scalable apps<br><br>💬 Ask me about:<br>Chrome extension development<br><br>Accessible, clean UI building in React<br><br>AI-assisted workflows for devs and learners<br><br>⚡ Fun fact:<br>I love reverse-engineering website flows to learn new tech stacks and sometimes write AI-generated code that ends up debugging itself!
+Here is your **enhanced, clean, professional About Me markdown** for GitHub, portfolio, or ReadMe use:
 
+---
+
+# ✨ About Me
+
+🚀 **Hi, I’m Ashish!**
+A builder who crafts **accessible, clean, AI-assisted web apps and Chrome extensions** using **React, TypeScript, and Gemini/OpenAI APIs.** I care deeply about **UI/UX, meaningful design, and developer tooling** that empowers learning and productivity.
+
+[🌐 **Portfolio**](https://ashishkm.vercel.app) • [LinkedIn](https://www.linkedin.com/in/amazingashish) • [Ashishkm.dev@gmail.com](Ashishkm.dev@gmail.com) *(replace with actual links)*
+
+---
+
+## 🛰️ Currently Building
+
+* **Production-ready web apps** with **clean, accessible UI/UX**.
+* **Chrome extensions** leveraging AI-assisted workflows for developers and learners.
+* Automation scripts and dev tools that reduce repetitive friction in workflows.
+
+---
+
+## 🧑‍🤝‍🧑 Looking to Collaborate On
+
+* 🛠️ **Open-source AI + accessibility tools.**
+* ⚡ **Full-stack SaaS products** with clear value propositions.
+* 🧩 **Chrome extensions** improving productivity or learning, especially with AI integration.
+
+---
+
+## 🤝 Seeking Help With
+
+* ⚙️ Advanced AI integration (**LLMs, embeddings, RAG pipelines**).
+* ☁️ **Backend scaling** with microservices and cloud-native practices.
+* 🎨 **Refining design thinking and UI animation skills** for more intuitive interfaces.
+
+---
+
+## 🌱 Currently Learning
+
+* **Advanced TypeScript + React patterns** for scalable frontends.
+* **AI workflow automation** using Gemini and OpenAI APIs.
+* **Microservices, Docker, and scalable cloud deployment pipelines** for apps.
+
+---
+
+## 💬 Ask Me About
+
+* 🧩 **Chrome extension development** with advanced architecture.
+* 🖼️ **Building accessible, clean UIs** in React and TypeScript.
+* 🤖 **AI-assisted developer workflows and learning pipelines**.
+
+---
+
+## ⚡ Fun Fact
+
+I **love reverse-engineering website flows** to learn new tech stacks and sometimes end up writing **AI-generated code that debugs itself**.
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amazingashish) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashishkm.dev@gmail.com) 
