@@ -1,7 +1,3 @@
-Here is your **enhanced, clean, professional About Me markdown** for GitHub, portfolio, or ReadMe use:
-
----
-
 # ✨ About Me
 
 🚀 **Hi, I’m Ashish!**
